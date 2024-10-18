@@ -1,0 +1,1 @@
+ C:\\Users\\HLN\\StudioProjects\\psx-multi-purpose-classified-app\\.dart_tool\\flutter_build\\72c8029b534d206aa9654281c912be8a\\native_assets.yaml: 
